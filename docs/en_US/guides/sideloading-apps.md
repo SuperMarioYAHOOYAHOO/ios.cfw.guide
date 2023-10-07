@@ -79,6 +79,35 @@ AltServer is only compatible with iOS 12.2 and newer.
 1. Download your desired IPA file and open it in AltStore on your iOS Device.
     - Make sure your iOS Device and Mac or Windows PC are connected to the same WiFi network
 
+## Sideloading using trollstore
+::: tip
+
+Trollstore is only compatible with iOS 15.5 and below without a jailbreak.
+
+:::
+
+
+### Jailbroken (15.6 and above)
+
+1. Add the ([palera1n](https://repo.palera.in)) repo to your preferred package manager.
+1. Install Trollstore Helper.
+1. Open Trollstore Helper and click Install Trollstore.
+1. Once complete, open trollstore and click the "+" icon to sideload an ipa, and signing is handled for you.
+
+### Stock iOS (15.5 and below)
+
+1. Open Safari
+1. Go to https://api.jailbreaks.app/troll64e
+1. Tap Install
+1. The app will appear on your homescreen.
+
+
+### Installing (15.5 and below)
+
+1. Open TrollHelper.
+1. Click "Install Trollstore"
+1. Trollstore has been installed.
+
 ## Resigning Apps
 
 ### Resigning using Reprovision Reborn
